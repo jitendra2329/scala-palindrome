@@ -1,2 +1,6 @@
 *.class
 *.log
+/scala-palindrom/.bsp/*
+/scala-palindrom/.idea/*
+/scala-palindrom/project/*
+/scala-palindrom/target/*
